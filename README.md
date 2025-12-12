@@ -26,4 +26,8 @@ Dieses Repository steht in keiner Verbindung mit dem Original-Entwickler der Sof
 
 Bei Fragen zur Software bitte an den Entwickler der Original-Software wenden:
 
-Website: [www.wampserver.com](https://www.wampserver.com/ "https://www.wampserver.com")
+WampServer Website: [www.wampserver.com](https://www.wampserver.com/ "https://www.wampserver.com")
+
+---
+
+[WampServerDE @ GitHub](https://github.com/KLiNG0NE/WampServerDE/ "https://github.com")
