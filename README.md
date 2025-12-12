@@ -37,7 +37,7 @@ Folgende Dateien wurden hinzugefügt:
 | Dateiname                            | Status   |
 | :----------------------------------- | :------: |
 | README.md                            | 100% ✅ |
-| www/wamplangues/add_vhost_german.php | 0% ❌   |
+| www/wamplangues/add_vhost_german.php | 50% ❌   |
 | www/wamplangues/help_german.php      | 0% ❌   |
 | www/wamplangues/index_german.php     | 100% ✅ |
 
