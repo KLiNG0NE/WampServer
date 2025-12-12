@@ -2,6 +2,10 @@
 
 Deutsche Sprachdateien für [WampServer](https://www.wampserver.com/).
 
+---
+
+## Version
+
 | Getestet mit | Version | Datum      |
 | :----------- | :-----: | :--------: |
 | WampServer   | 3.4.0   | 2025-12-12 |
