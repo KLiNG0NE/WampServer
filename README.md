@@ -26,7 +26,7 @@ Du kannst die Dateien auf GitHub über "Code -> Download ZIP" herunterladen: [gi
 
 ## Installation
 
-Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation Beispielsweise ``C:\wamp64`` entpackt. Sofern noch keine deutschen Sprachdateien vorhanden waren, werden diese hinzugefügt. Falls bereits deutsche Sprachdatein existierten, sollten diese überschrieben werden.
+Die Dateien werden anschließend in das Verzeichnis der WampServer-Installation Beispielsweise ``C:\wamp64`` entpackt. Das Überschreiben vorhandener Dateien, sollten genehmigt werden.
 
 ---
 
@@ -40,6 +40,12 @@ Folgende Dateien wurden hinzugefügt:
 | www/wamplangues/add_vhost_german.php | 50% ❌   |
 | www/wamplangues/help_german.php      | 0% ❌   |
 | www/wamplangues/index_german.php     | 100% ✅ |
+
+Folgende Dateien wurden aktualisiert:
+
+| Dateiname                            | Status   | Datum      |
+| :----------------------------------- | :------: | ---------- |
+| lang/german.lang                     | 80% ❌  | 2025-12-12 |
 
 ---
 
